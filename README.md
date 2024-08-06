@@ -1,4 +1,4 @@
-Just me, all files you can found here are 100% secure and i want to give you some things i create for fun
+This is a Rainbow 6 Siege Automated server selector made in python, if you don't want to run the py file you have here the arledy builded exe, the unique dep is colorama
 
 <!---
 Lqnnixdev/Lqnnixdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
