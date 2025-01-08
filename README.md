@@ -2,15 +2,15 @@ R6 Server selector (open-source)
 
 Available region swaps: 
 
-[x] South Brazil
+ 🌎〢South Brazil
 
-[x] Central Asia
+ 🌎〢Central Asia
 
-[x] East Europe
+ 🌎〢East Europe
 
-[x] North Europe
+ 🌎〢North Europe
 
-[x] Back to default server
+ 🌎〢Back to default server
 
 ![image](https://github.com/user-attachments/assets/b9e5e626-0b14-4ffd-b941-26069d1ca6ed)
 
